@@ -1,0 +1,9 @@
+C:\Users\Muhammed Shahan\Desktop\BookStoreApi\BookStoreApi\Model\bin\Debug\netcoreapp2.1\BookStoreModelLayer.deps.json
+C:\Users\Muhammed Shahan\Desktop\BookStoreApi\BookStoreApi\Model\bin\Debug\netcoreapp2.1\BookStoreModelLayer.dll
+C:\Users\Muhammed Shahan\Desktop\BookStoreApi\BookStoreApi\Model\bin\Debug\netcoreapp2.1\BookStoreModelLayer.pdb
+C:\Users\Muhammed Shahan\Desktop\BookStoreApi\BookStoreApi\Model\obj\Debug\netcoreapp2.1\BookStoreModelLayer.csprojAssemblyReference.cache
+C:\Users\Muhammed Shahan\Desktop\BookStoreApi\BookStoreApi\Model\obj\Debug\netcoreapp2.1\BookStoreModelLayer.AssemblyInfoInputs.cache
+C:\Users\Muhammed Shahan\Desktop\BookStoreApi\BookStoreApi\Model\obj\Debug\netcoreapp2.1\BookStoreModelLayer.AssemblyInfo.cs
+C:\Users\Muhammed Shahan\Desktop\BookStoreApi\BookStoreApi\Model\obj\Debug\netcoreapp2.1\BookStoreModelLayer.dll
+C:\Users\Muhammed Shahan\Desktop\BookStoreApi\BookStoreApi\Model\obj\Debug\netcoreapp2.1\BookStoreModelLayer.pdb
+C:\Users\Muhammed Shahan\Desktop\BookStoreApi\BookStoreApi\Model\obj\Debug\netcoreapp2.1\BookStoreModelLayer.csproj.CoreCompileInputs.cache
